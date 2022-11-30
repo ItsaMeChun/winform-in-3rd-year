@@ -1,0 +1,106 @@
+E:\src\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\19DTHJB1_Long_Phuc_Trung.exe.config
+E:\src\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\19DTHJB1_Long_Phuc_Trung.exe
+E:\src\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\19DTHJB1_Long_Phuc_Trung.pdb
+E:\src\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.csproj.AssemblyReference.cache
+E:\src\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.Properties.Resources.resources
+E:\src\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.csproj.GenerateResource.cache
+E:\src\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.csproj.CoreCompileInputs.cache
+E:\src\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.exe
+E:\src\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.pdb
+E:\src\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.FormMain.resources
+E:\src\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.Member.resources
+E:\src\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.BorrowBooks.resources
+E:\src\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.AddBooks.resources
+E:\src\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.FindBooks.resources
+E:\src\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.formLogin.resources
+E:\src\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\EntityFramework.dll
+E:\src\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\EntityFramework.SqlServer.dll
+E:\src\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\EntityFramework.xml
+E:\src\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\EntityFramework.SqlServer.xml
+E:\src\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.csproj.CopyComplete
+E:\src\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.formTacGia.resources
+D:\仕事\LTMTWINDOW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\19DTHJB1_Long_Phuc_Trung.exe.config
+D:\仕事\LTMTWINDOW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\19DTHJB1_Long_Phuc_Trung.exe
+D:\仕事\LTMTWINDOW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\19DTHJB1_Long_Phuc_Trung.pdb
+D:\仕事\LTMTWINDOW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\EntityFramework.dll
+D:\仕事\LTMTWINDOW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\EntityFramework.SqlServer.dll
+D:\仕事\LTMTWINDOW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\EntityFramework.xml
+D:\仕事\LTMTWINDOW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\EntityFramework.SqlServer.xml
+D:\仕事\LTMTWINDOW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.csproj.AssemblyReference.cache
+D:\仕事\LTMTWINDOW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.AddBooks.resources
+D:\仕事\LTMTWINDOW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.BorrowBooks.resources
+D:\仕事\LTMTWINDOW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.FindBooks.resources
+D:\仕事\LTMTWINDOW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.FormMain.resources
+D:\仕事\LTMTWINDOW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.formLogin.resources
+D:\仕事\LTMTWINDOW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.formTacGia.resources
+D:\仕事\LTMTWINDOW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.Member.resources
+D:\仕事\LTMTWINDOW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.Properties.Resources.resources
+D:\仕事\LTMTWINDOW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.csproj.GenerateResource.cache
+D:\仕事\LTMTWINDOW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.csproj.CoreCompileInputs.cache
+D:\仕事\LTMTWINDOW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.exe
+D:\仕事\LTMTWINDOW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.pdb
+C:\Users\Administrator\Desktop\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\19DTHJB1_Long_Phuc_Trung.exe.config
+C:\Users\Administrator\Desktop\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\19DTHJB1_Long_Phuc_Trung.exe
+C:\Users\Administrator\Desktop\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\19DTHJB1_Long_Phuc_Trung.pdb
+C:\Users\Administrator\Desktop\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.AddBooks.resources
+C:\Users\Administrator\Desktop\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.BorrowBooks.resources
+C:\Users\Administrator\Desktop\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.FindBooks.resources
+C:\Users\Administrator\Desktop\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.FormMain.resources
+C:\Users\Administrator\Desktop\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.formLogin.resources
+C:\Users\Administrator\Desktop\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.formTacGia.resources
+C:\Users\Administrator\Desktop\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.Member.resources
+C:\Users\Administrator\Desktop\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.Properties.Resources.resources
+C:\Users\Administrator\Desktop\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.csproj.CopyComplete
+C:\Users\Administrator\Desktop\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.exe
+C:\Users\Administrator\Desktop\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.pdb
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\19DTHJB1_Long_Phuc_Trung.exe.config
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\19DTHJB1_Long_Phuc_Trung.exe
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\19DTHJB1_Long_Phuc_Trung.pdb
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.AddBooks.resources
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.BorrowBooks.resources
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.FindBooks.resources
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.FormMain.resources
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.formLogin.resources
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.formTacGia.resources
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.Member.resources
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.csproj.CopyComplete
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.exe
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.pdb
+C:\Users\Administrator\Desktop\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.formReg.resources
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.AddBooks.resources
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.BorrowBooks.resources
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.FindBooks.resources
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.FormMain.resources
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.formLogin.resources
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.formReg.resources
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.formTacGia.resources
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.Member.resources
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.exe
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.pdb
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\19DTHJB1_Long_Phuc_Trung.exe.config
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\19DTHJB1_Long_Phuc_Trung.exe
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\19DTHJB1_Long_Phuc_Trung.pdb
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\_19DTHJB1_Long_Phuc_Trung.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\bai tap\LTW\pjQuanLyThuVien\19DTHJB1_Long_Phuc_Trung\obj\Debug\19DTHJB1_Long_Phuc_Trung.csproj.CopyComplete
